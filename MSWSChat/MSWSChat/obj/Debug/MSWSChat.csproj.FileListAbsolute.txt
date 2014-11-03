@@ -1,0 +1,14 @@
+C:\Users\jwilliams\Downloads\MSWSChat\MSWSChat\MSWSChat\bin\MSWSChat.dll.config
+C:\Users\jwilliams\Downloads\MSWSChat\MSWSChat\MSWSChat\bin\MSWSChat.dll
+C:\Users\jwilliams\Downloads\MSWSChat\MSWSChat\MSWSChat\bin\MSWSChat.pdb
+C:\Users\jwilliams\Downloads\MSWSChat\MSWSChat\MSWSChat\bin\Microsoft.WebSockets.dll
+C:\Users\jwilliams\Downloads\MSWSChat\MSWSChat\MSWSChat\obj\Debug\MSWSChat.csprojResolveAssemblyReference.cache
+C:\Users\jwilliams\Downloads\MSWSChat\MSWSChat\MSWSChat\obj\Debug\MSWSChat.dll
+C:\Users\jwilliams\Downloads\MSWSChat\MSWSChat\MSWSChat\obj\Debug\MSWSChat.pdb
+C:\Inetpub\MSWSChat\MSWSChat\bin\MSWSChat.dll.config
+C:\Inetpub\MSWSChat\MSWSChat\bin\MSWSChat.dll
+C:\Inetpub\MSWSChat\MSWSChat\bin\MSWSChat.pdb
+C:\Inetpub\MSWSChat\MSWSChat\bin\Microsoft.WebSockets.dll
+C:\Inetpub\MSWSChat\MSWSChat\obj\Debug\MSWSChat.csprojResolveAssemblyReference.cache
+C:\Inetpub\MSWSChat\MSWSChat\obj\Debug\MSWSChat.dll
+C:\Inetpub\MSWSChat\MSWSChat\obj\Debug\MSWSChat.pdb
